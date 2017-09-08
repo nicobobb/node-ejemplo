@@ -1,0 +1,27 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+li{
+    list-style: none;
+    text-decoration: none;
+    background-color: #006296;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+div{
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid black;
+}
